@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <Header />
       <div className="login-screen">
-        Login
+        Testing gitignore commit
       </div>
     </div>
   );
