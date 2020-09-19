@@ -1,0 +1,20 @@
+body {
+    bacKground-color: darkblue;
+    color: white;
+}
+
+.App {
+    text-align: center;
+}
+
+.app-header {
+    background-color: black;
+}
+
+.logo {
+    float: left;
+}
+
+.title {
+    float: right;
+}
